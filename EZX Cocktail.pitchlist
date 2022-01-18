@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="127" name="127 Sn Sidestick" color="FF51D361"/>
+	<Music.PitchName pitch="126" name="126 Sn Rimshot" color="FF51D361"/>
+	<Music.PitchName pitch="125" name="125 Sn Center" color="FF51D361"/>
+	<Music.PitchName pitch="124" name="124 HH Open 4" color="FFFFAC0D"/>
+	<Music.PitchName pitch="123" name="123 HH Open 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="122" name="122 HH Open Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="121" name="121 HH Open 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="120" name="120 HH Open 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="119" name="119 HH Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="118" name="118 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="117" name="117 Ri Bell" color="FF5C00FF"/>
+	<Music.PitchName pitch="116" name="116 Ri Bow" color="FF5C00FF"/>
+	<Music.PitchName pitch="115" name="115 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="114" name="114 Ri Bell" color="FF5C00FF"/>
+	<Music.PitchName pitch="113" name="113 Ri Bow" color="FF5C00FF"/>
+	<Music.PitchName pitch="112" name="112 Ri Bell" color="FFBC2807"/>
+	<Music.PitchName pitch="111" name="111 Ri Bow" color="FFBC2807"/>
+	<Music.PitchName pitch="110" name="110 Ri Edge" color="FFBC2807"/>
+	<Music.PitchName pitch="109" name="109 Ri Bell" color="FFBC2807"/>
+	<Music.PitchName pitch="108" name="108 Ri Bow" color="FFBC2807"/>
+	<Music.PitchName pitch="107" name="107 Ri Edge" color="FFBC2807"/>
+	<Music.PitchName pitch="106" name="106 Ri Edge" color="FFB03248"/>
+	<Music.PitchName pitch="105" name="105 Ri Bell" color="FFB03248"/>
+	<Music.PitchName pitch="104" name="104 Ri Bow" color="FFB03248"/>
+	<Music.PitchName pitch="103" name="103 Ri Edge" color="FFB03248"/>
+	<Music.PitchName pitch="102" name="102 Ri Bell" color="FFB03248"/>
+	<Music.PitchName pitch="101" name="101 Ri Bow" color="FFB03248"/>
+	<Music.PitchName pitch="100" name="100 Ri Bell" color="FFA63065"/>
+	<Music.PitchName pitch="99" name="99 Ri Bow" color="FFA63065"/>
+	<Music.PitchName pitch="98" name="98 Ri Edge" color="FFA63065"/>
+	<Music.PitchName pitch="97" name="97 Ri Bell" color="FFA63065"/>
+	<Music.PitchName pitch="96" name="96 Ri Bow" color="FFA63065"/>
+	<Music.PitchName pitch="95" name="95 Ri Edge" color="FFA63065"/>
+	<Music.PitchName pitch="94" name="94 Ri Edge" color="FFC746CC"/>
+	<Music.PitchName pitch="93" name="93 Ri Bell" color="FFC746CC"/>
+	<Music.PitchName pitch="92" name="92 Ri Bow" color="FFC746CC"/>
+	<Music.PitchName pitch="91" name="91 Ri Edge" color="FFC746CC"/>
+	<Music.PitchName pitch="90" name="90 Ri Bell" color="FFC746CC"/>
+	<Music.PitchName pitch="89" name="89 Ri Bow" color="FFC746CC"/>
+	<Music.PitchName pitch="88" name="88 Ri Bell" color="FF8D56FF"/>
+	<Music.PitchName pitch="87" name="87 Ri Bow" color="FF8D56FF"/>
+	<Music.PitchName pitch="86" name="86 Ri Edge" color="FF8D56FF"/>
+	<Music.PitchName pitch="85" name="85 Ri Bell" color="FF8D56FF"/>
+	<Music.PitchName pitch="84" name="84 Ri Bow" color="FF8D56FF"/>
+	<Music.PitchName pitch="83" name="83 Ri Edge" color="FF8D56FF"/>
+	<Music.PitchName pitch="82" name="82 Hi Sn Center" color="FF6DE8EA"/>
+	<Music.PitchName pitch="81" name="81 Hi Sn Center Alt" color="FF6DE8EA"/>
+	<Music.PitchName pitch="80" name="80 Hi Sn Center" color="FF00E0FB"/>
+	<Music.PitchName pitch="79" name="79 Hi Sn Center Alt" color="FF00E0FB"/>
+	<Music.PitchName pitch="78" name="78 Hi Sn Center" color="FF2FB1FF"/>
+	<Music.PitchName pitch="77" name="77 Hi Sn Center Alt" color="FF2FB1FF"/>
+	<Music.PitchName pitch="76" name="76 Sn Sidestick" color="FF5C00FF"/>
+	<Music.PitchName pitch="75" name="75 To Center" color="FF5C8498"/>
+	<Music.PitchName pitch="74" name="74 To Center" color="FF5C8498"/>
+	<Music.PitchName pitch="73" name="73 To Center" color="FF4872A9"/>
+	<Music.PitchName pitch="72" name="72 To Center" color="FF4872A9"/>
+	<Music.PitchName pitch="71" name="71 Sn Rimshot" color="FF51D361"/>
+	<Music.PitchName pitch="70" name="70 Sn Center" color="FF51D361"/>
+	<Music.PitchName pitch="69" name="69 Sn Center" color="FF51D361"/>
+	<Music.PitchName pitch="68" name="68 Sn Center" color="FF51D361"/>
+	<Music.PitchName pitch="67" name="67 Sn Sidestick" color="FF51D361"/>
+	<Music.PitchName pitch="66" name="66 Sn Center Alt" color="FF51D361"/>
+	<Music.PitchName pitch="65" name="65 HH Seq Soft" color="FFFFAC0D"/>
+	<Music.PitchName pitch="64" name="64 HH Seq Hard" color="FFFFAC0D"/>
+	<Music.PitchName pitch="63" name="63 HH Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="62" name="62 HH Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="61" name="61 HH Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="60" name="60 HH Open 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="59" name="59 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="58" name="58 Ri Edge" color="FFB03248"/>
+	<Music.PitchName pitch="57" name="57 Ri Edge" color="FFB03248"/>
+	<Music.PitchName pitch="56" name="56 Ri Edge" color="FFA63065"/>
+	<Music.PitchName pitch="55" name="55 Ri Edge" color="FFA63065"/>
+	<Music.PitchName pitch="54" name="54 Ri Edge" color="FFBC2807"/>
+	<Music.PitchName pitch="53" name="53 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="52" name="52 Ri Edge" color="FFBC2807"/>
+	<Music.PitchName pitch="51" name="51 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="50" name="50 Ri Edge" color="FFC746CC"/>
+	<Music.PitchName pitch="49" name="49 Ri Edge" color="FFC746CC"/>
+	<Music.PitchName pitch="48" name="48 Hi Sn Center" color="FF6DE8EA"/>
+	<Music.PitchName pitch="47" name="47 Hi Sn Center Alt" color="FF00E0FB"/>
+	<Music.PitchName pitch="46" name="46 HH Open 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="45" name="45 Hi Sn Centerr" color="FF2FB1FF"/>
+	<Music.PitchName pitch="44" name="44 HH Closed Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="43" name="43 To Center" color="FF5C8498"/>
+	<Music.PitchName pitch="42" name="42 HH Colsed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="41" name="41 To Center Alt" color="FF4872A9"/>
+	<Music.PitchName pitch="40" name="40 Sn Rimshot" color="FF51D361"/>
+	<Music.PitchName pitch="39" name="39 Sn Center Alt" color="FF3CAF66"/>
+	<Music.PitchName pitch="38" name="38 Sn Center" color="FF3CAF66"/>
+	<Music.PitchName pitch="37" name="37 Sn Sidestick" color="FF51D361"/>
+	<Music.PitchName pitch="36" name="36 Ki Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="35" name="35 Ki Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="34" name="34 Ki Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="33" name="33 Sn Center Alt" color="FF51D361"/>
+	<Music.PitchName pitch="32" name="32 Ri Edge" color="FFB03248"/>
+	<Music.PitchName pitch="31" name="31 Ri Edge" color="FFB03248"/>
+	<Music.PitchName pitch="30" name="30 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="29" name="29 Ri Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="28" name="28 Ri Edge" color="FFC746CC"/>
+	<Music.PitchName pitch="27" name="27 Ri Edge" color="FFC746CC"/>
+	<Music.PitchName pitch="26" name="26 HH Open 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="25" name="25 HH Open 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="24" name="24 HH Open 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="23" name="23 HH Open Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="22" name="22 HH Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="21" name="21 HH Closed Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="20" name="20 HH hatsTrig" color="FFFFAC0D"/>
+	<Music.PitchName pitch="19" name="19 HH hatsTrig" color="FFFFAC0D"/>
+	<Music.PitchName pitch="18" name="18 HH hatsTrig" color="FFFFAC0D"/>
+	<Music.PitchName pitch="17" name="17 HH Open 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="16" name="16 HH Open 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="15" name="15 HH Open 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="14" name="14 HH Open 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="13" name="13 HH Open 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="12" name="12 HH Open 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="11" name="11 HH Closed" color="FFFFAC0D"/>
+	<Music.PitchName pitch="10" name="10 HH Closed Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="9" name="9 HH hatsTrig" color="FFFFAC0D"/>
+	<Music.PitchName pitch="8" name="8 HH hatsTrig" color="FFFFAC0D"/>
+	<Music.PitchName pitch="7" name="7 HH hatsTrig" color="FFFFAC0D"/>
+	<Music.PitchName pitch="6" name="6 Sn Center" color="FF51D361"/>
+</Music.PitchNameList>

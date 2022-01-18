@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="127" name="127 Sn Rim Rim" color="FF51D361"/>
+	<Music.PitchName pitch="126" name="126 Sn Alt Alt" color="FF51D361"/>
+	<Music.PitchName pitch="125" name="125 Sn Main" color="FF51D361"/>
+	<Music.PitchName pitch="124" name="124 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="123" name="123 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="122" name="122 HH 1 Main" color="FFFFAC0D"/>
+	<Music.PitchName pitch="121" name="121 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="120" name="120 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="119" name="119 HH 1 Main" color="FFFFAC0D"/>
+	<Music.PitchName pitch="118" name="118 Cr 1 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="117" name="117 Cr 2 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="116" name="116 Cr 2 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="115" name="115 Cr 2 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="114" name="114 Cr 2 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="113" name="113 Cr 2 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="112" name="112 Cr 2 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="111" name="111 Cr 2 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="110" name="110 Cr 2 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="109" name="109 Cr 2 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="108" name="108 Cr 2 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="107" name="107 Cr 1 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="106" name="106 Cr 1 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="105" name="105 Cr 2 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="104" name="104 Cr 2 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="103" name="103 Cr 2 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="102" name="102 Cr 2 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="101" name="101 Cr 2 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="100" name="100 Cr 2 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="99" name="99 Cr 2 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="98" name="98 Cr 2 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="97" name="97 Cr 2 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="96" name="96 Cr 2 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="95" name="95 Cr 1 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="94" name="94 Cr 1 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="93" name="93 Cr 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="92" name="92 Cr 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="91" name="91 Cr 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="90" name="90 Cr 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="89" name="89 Cr 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="88" name="88 Cr 2 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="87" name="87 Cr 2 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="86" name="86 Cr 2 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="85" name="85 Cr 2 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="84" name="84 Cr 2 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="83" name="83 Cr 1 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="82" name="82 To 1 Head" color="FF6DE8EA"/>
+	<Music.PitchName pitch="81" name="81 To 1 Head" color="FF6DE8EA"/>
+	<Music.PitchName pitch="80" name="80 To 2 Head" color="FF00E0FB"/>
+	<Music.PitchName pitch="79" name="79 To 2 Head" color="FF00E0FB"/>
+	<Music.PitchName pitch="78" name="78 To 3 Head" color="FF2FB1FF"/>
+	<Music.PitchName pitch="77" name="77 To 4 Head" color="FF2FB1FF"/>
+	<Music.PitchName pitch="76" name="76 FX 8 Trigger" color="FF5C00FF"/>
+	<Music.PitchName pitch="75" name="75 FX 7 Trigger" color="FF5C8498"/>
+	<Music.PitchName pitch="74" name="74 FX 6 Trigger" color="FF5C8498"/>
+	<Music.PitchName pitch="73" name="73 FX 5 Trigger" color="FF4872A9"/>
+	<Music.PitchName pitch="72" name="72 FX 4 Trigger" color="FF4872A9"/>
+	<Music.PitchName pitch="71" name="71 FX 3 Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="70" name="70 FX 2 Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="69" name="69 FX 1 Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="68" name="68 Xt 8 Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="67" name="67 Xt 7 Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="66" name="66 Xt 6 Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="65" name="65 Xt 5 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="64" name="64 Xt 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="63" name="63 Xt 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="62" name="62 Xt 2 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="61" name="61 Xt 1 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="60" name="60 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="59" name="59 Perc Trig Trigger" color="FF5C00FF"/>
+	<Music.PitchName pitch="58" name="58 Perc 3 Hit" color="FFB03248"/>
+	<Music.PitchName pitch="57" name="57 Perc 2 Hit" color="FFB03248"/>
+	<Music.PitchName pitch="56" name="56 Perc 1 Hit" color="FFA63065"/>
+	<Music.PitchName pitch="55" name="55 HH 6 Trigger" color="FFA63065"/>
+	<Music.PitchName pitch="54" name="54 HH 5 Trigger" color="FFBC2807"/>
+	<Music.PitchName pitch="53" name="53 HH 4 Trigger" color="FF5C00FF"/>
+	<Music.PitchName pitch="52" name="52 HH 3 Trigger" color="FFBC2807"/>
+	<Music.PitchName pitch="51" name="51 Cr 2 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="50" name="50 HH 2 Trigger" color="FFC746CC"/>
+	<Music.PitchName pitch="49" name="49 Cr 1 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="48" name="48 HH 1 Trigger" color="FF6DE8EA"/>
+	<Music.PitchName pitch="47" name="47 To 1 Head" color="FF00E0FB"/>
+	<Music.PitchName pitch="46" name="46 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="45" name="45 To 2 Head" color="FF2FB1FF"/>
+	<Music.PitchName pitch="44" name="44 HH 2 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="43" name="43 To 3 Head" color="FF5C8498"/>
+	<Music.PitchName pitch="42" name="42 HH 1 Main" color="FFFFAC0D"/>
+	<Music.PitchName pitch="41" name="41 To 4 Head" color="FF4872A9"/>
+	<Music.PitchName pitch="40" name="40 Sn Alt Alt" color="FF51D361"/>
+	<Music.PitchName pitch="39" name="39 Claps Clap" color="FF3CAF66"/>
+	<Music.PitchName pitch="38" name="38 Sn Main" color="FF3CAF66"/>
+	<Music.PitchName pitch="37" name="37 Sn Rim Rim" color="FF51D361"/>
+	<Music.PitchName pitch="36" name="36 Ki Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="35" name="35 Ki Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="34" name="34 Ki Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="33" name="33 Sn Main" color="FF51D361"/>
+	<Music.PitchName pitch="32" name="32 Cr 1 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="31" name="31 Cr 1 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="30" name="30 Cr 1 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="29" name="29 Cr 1 Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="28" name="28 Cr 1 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="27" name="27 Cr 1 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="26" name="26 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="25" name="25 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="24" name="24 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="23" name="23 HH 1 Main" color="FFFFAC0D"/>
+	<Music.PitchName pitch="22" name="22 HH 1 Main" color="FFFFAC0D"/>
+	<Music.PitchName pitch="21" name="21 HH 2 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="20" name="20 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="19" name="19 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="18" name="18 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="17" name="17 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="16" name="16 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="15" name="15 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="14" name="14 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="13" name="13 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="12" name="12 HH 3 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="11" name="11 HH 1 Main" color="FFFFAC0D"/>
+	<Music.PitchName pitch="10" name="10 HH 2 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="9" name="9 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="8" name="8 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="7" name="7 HH 4 Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="6" name="6 Sn Main" color="FF51D361"/>
+</Music.PitchNameList>
